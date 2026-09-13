@@ -1,0 +1,1 @@
+map(select(.status == "active" and .downloads >= 100)) | sort_by(-.downloads, .name)
