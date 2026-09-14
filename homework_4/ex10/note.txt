@@ -1,0 +1,2 @@
+Git diff practice.
+This line is newly added.
